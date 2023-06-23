@@ -41,7 +41,7 @@ Use this section to recap over some of your major learnings while working throug
 
 - Website - [Loopstudios](https://omprakashr.github.io/Interactive-rating)
 - Code - [Git url](https://github.com/OmprakashR/Interactive-rating-.git)
-- Score [pagespeed](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
+- Score [pagespeed](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Interactive-rating-/126ujjh2hz?form_factor=mobile)
  
  
 ## Acknowledgments
