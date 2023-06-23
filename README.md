@@ -20,12 +20,7 @@ Users should be able to:
 ### Screenshot
  
     
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+ 
 ## My process
 
 ### Built with
@@ -44,8 +39,8 @@ Use this section to recap over some of your major learnings while working throug
  
 ## Dmmo urls
 
-- Website - [Loopstudios](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
-- Code - [Git url](https://github.com/OmprakashR/Loopstudios.git)
+- Website - [Loopstudios](https://omprakashr.github.io/Interactive-rating)
+- Code - [Git url](https://github.com/OmprakashR/Interactive-rating-.git)
 - Score [pagespeed](https://pagespeed.web.dev/analysis/https-omprakashr-github-io-Loopstudios/rkfys28j6o?form_factor=mobile)
  
  
